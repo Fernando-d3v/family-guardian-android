@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Family Guardian</string>
+    <string name="notification_service_label">Monitoramento de Notificações</string>
+    <string name="notification_service_description">Permite ao Family Guardian monitorar notificações de aplicativos para proteção infantil</string>
+    <string name="monitoring_active">Monitoramento Ativo</string>
+    <string name="monitoring_inactive">Monitoramento Inativo</string>
+    <string name="btn_activate">Ativar</string>
+    <string name="recent_messages">Mensagens Recentes</string>
+    <string name="empty_events">Nenhuma mensagem capturada ainda.\nAtive o monitoramento para começar.</string>
+</resources>
